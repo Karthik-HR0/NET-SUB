@@ -31,5 +31,9 @@ These can be automatically installed by the script if they are missing.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Karthik-HR0/NET-SUB.git
+   ```bash cd NET-SUB
+   ```bash chmod +x * NET-SUB.sh
+   ```bash example output :[*] Subdomain Enumeration Completed! 
+[*] Found 50 subdomains for example.com
+[!] View the example.com-all_subdomains.txt file for results!
