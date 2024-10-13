@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/642fbf8d-5131-48bc-bfc2-42045ee7c056
  / /|  / /___  / /_____/__/ / /_/ / /_/ / 
 /_/ |_/_____/ /_/     /____/\____/_____/  
                                                   
-                                      - BY KARTHIK_HR 
+                                      - BY Karthik-HR0 
                                            
                                   
 [*] Installing Requirements..please wait !
