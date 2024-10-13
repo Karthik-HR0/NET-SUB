@@ -20,7 +20,7 @@ display_logo() {
     echo -e "${colors[3]} / /|  / /___  / /_____/__/ / /_/ / /_/ / "
     echo -e "${colors[4]} /_/ |_/_____/ /_/     /____/\____/_____/  "
     echo -e "                                           "
-    echo -e "${colors[5]}                                  - BY KARTHIK_HR ${colors[7]}"
+    echo -e "${colors[5]}                                  - BY Karthik-HR0 ${colors[7]}"
     echo -e "\e[32m [*] Installing Requirements..please wait !\e[0m"
 }
 
