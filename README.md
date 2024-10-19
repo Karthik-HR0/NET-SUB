@@ -37,7 +37,7 @@ These can be automatically installed by the script if they are missing.
    ./NET-SUB.sh
    
    ```
-## demo example 
+## demo video 
 
 https://github.com/user-attachments/assets/642fbf8d-5131-48bc-bfc2-42045ee7c056
 
